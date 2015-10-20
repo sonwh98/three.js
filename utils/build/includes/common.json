@@ -174,4 +174,6 @@
     "src/renderers/webgl/plugins/LensFlarePlugin.js",
     "src/renderers/webgl/plugins/SpritePlugin.js",
     "examples/js/controls/TrackballControls.js",
-    "examples/js/renderers/CSS3DRenderer.js"]
+    "examples/js/renderers/CSS3DRenderer.js",
+    "examples/js/controls/OrbitControls.js"
+]
